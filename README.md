@@ -90,7 +90,7 @@ This diagram shows the logic flow in the case that a drop is hosted on OpenSea, 
 To install dependencies and compile contracts:
 
 ```bash
-git clone --recurse-submodules https://github.com/ProjectOpenSea/seadrop && cd seadrop
+git clone --recurse-submodules https://github.com/lopjf/seadrop-BigL && cd seadrop
 yarn install
 yarn build
 ```
